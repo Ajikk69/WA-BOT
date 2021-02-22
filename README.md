@@ -8,7 +8,7 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Nurutomo/wabot-aq
+> git clone https://github.com/Ajikk69/WA-BOT
 > cd wabot-aq
 > npm install
 ```
@@ -34,6 +34,7 @@ Simple WhatsApp Bot
 > node index.js
 ```
 --------------
-
+##### IM JUST COPYING AND REBUILD THIS SCRIPT #####
 ##### Powered By : [`XTEAM`](https://api.xteam.xyz) 
-##### Author / Creator : [`Nurutomo`](https://GitHub.com/Nurutomo) 
+##### Author / Creator : [`Nurutomo`](https://GitHub.com/Nurutomo)
+THX TO CREATOR
