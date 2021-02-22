@@ -9,7 +9,7 @@ Simple WhatsApp Bot
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/Ajikk69/WA-BOT
-> cd wabot-aq
+> cd WA-BOt
 > npm install
 ```
 ###### Run
